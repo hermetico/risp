@@ -15,9 +15,9 @@ Download the candidate models
 * [s7](https://drive.google.com/file/d/16PRMmzgzMSkZmK0IzzlA6qcKQl8ZFqjj/view?usp=sharing)
 * [p20](https://drive.google.com/file/d/1WvrV0HWtQnA_SrBZ1FcS_GhvC3bVReHy/view?usp=sharing)
 
-Place them into ``checkpoints``
+Place them into ``checkpoints/`` folder.
 
-To produce the final modify ``launch-inference.sh`` accordingly and run:
+To run inference, modify ``launch-inference.sh`` accordingly and run:
 
 ```
 sh launch-inference.sh
